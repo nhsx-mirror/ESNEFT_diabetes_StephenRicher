@@ -1,6 +1,6 @@
 # Diabetes Prevalence Management and Health Inequalities
 
-## NHS England Data Science Intership Programme
+## NHS England Data Science Internship Programme
 
 ### Stephen Richer & Paul Carroll, June 2022 - Dec 2022
 
